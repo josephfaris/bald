@@ -1,0 +1,13 @@
+.new_new{
+    height: 100px;
+    overflow: hidden;
+}
+.new_img {
+    object-fit: contain;
+}
+.new_title {
+font-size: 15px;
+}
+.section1,.section2,.section3,.section4,.section5,.section6 {
+    display: none;
+}
